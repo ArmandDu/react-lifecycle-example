@@ -1,0 +1,17 @@
+[
+	{
+		"id": 1,
+		"value": "Learn React",
+		"checked": false
+	},
+	{
+		"id": 2,
+		"value": "Learn Props",
+		"checked": true
+	},
+	{
+		"id": 3,
+		"value": "Learn LifeCycle Methods",
+		"checked": false
+	}
+]
